@@ -4,6 +4,7 @@ public class PriorityQueueMain {
 	public static void main(String[] args) {
 		PriorityQueue pq = new PriorityQueue(5);
 		
+
 		pq.push(10);
 		pq.push(20);
 		pq.push(30);
